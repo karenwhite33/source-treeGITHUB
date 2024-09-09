@@ -1,0 +1,5 @@
+#Sourcetreegit
+
+Sourcetree simplifies how you interact with your Git repositories 
+so you can focus on coding. 
+Visualize and manage your repositories through Sourcetree's simple Git GUI.
