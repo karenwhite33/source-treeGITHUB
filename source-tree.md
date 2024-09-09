@@ -18,3 +18,4 @@ SourceTree is available for both Windows and macOS platforms, making it a more v
 Git, on the other hand, is a cross-platform tool that can be used on various
 operating systems including Windows, macOS, and Linux.
 
+#GitHub also supports webhook and API integrations, enabling custom integrations and automation. SourceTree, while it provides some integration options, has a more limited ecosystem compared to GitHub.
